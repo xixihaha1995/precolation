@@ -32,11 +32,11 @@ public class ConnectedComponents {
     }
 
 
-    public int getCount() {
+    public int count() {
         return count;
     }
 
-    public int getCount(int v) {
+    public int id(int v) {
         return id[v];
     }
 
